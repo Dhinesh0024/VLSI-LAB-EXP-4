@@ -129,13 +129,16 @@ endmodule
 ## OUTPUT WAVEFORM
 
 ### SR FLIPFLOP:
+![SR](https://github.com/Dhinesh0024/VLSI-LAB-EXP-4/assets/160568927/0f6d3c8a-68ed-42c1-950f-97b055ceaf98)
 
 ### JK FLIPFLOP:
+![JK](https://github.com/Dhinesh0024/VLSI-LAB-EXP-4/assets/160568927/f10f8a81-e7aa-44f7-a5ee-70f276eeb4ba)
 
 ### T FLIPFLOP:
+![TFF](https://github.com/Dhinesh0024/VLSI-LAB-EXP-4/assets/160568927/111a7a8f-4e01-4ac4-90c1-4a1a45d13115)
 
 ### D FLIPFLOP:
-
+![DFF](https://github.com/Dhinesh0024/VLSI-LAB-EXP-4/assets/160568927/03c4477f-c15a-4898-9e11-df5f1ff4850a)
 ### COUNTER:
 
 ## RESULT
