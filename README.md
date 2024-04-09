@@ -151,10 +151,11 @@ endmodule
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/a1fc5f68-aafb-49a1-93d2-779529f525fa)
 
-## udc
+## Updown Counter:
 
 ### Logic Diagram:
 
+![image](https://github.com/Dhinesh0024/VLSI-LAB-EXP-4/assets/160568927/dd12585a-157f-4b6f-a0c3-b421bb52434c)
 
 
 ### Verilog Code:
@@ -179,9 +180,11 @@ endmodule
 
 ![Screenshot 2024-04-06 134430](https://github.com/Dhinesh0024/VLSI-LAB-EXP-4/assets/160568927/c37fe928-351f-4e40-bf5a-49491aab4bfc)
 
-## mtc
+## Mod-10 Counter:
 
 ### Logic Diagram:
+
+![image](https://github.com/Dhinesh0024/VLSI-LAB-EXP-4/assets/160568927/3a4a4da2-7488-411d-8ea5-2e57c4fd942f)
 
 
 ### Verilog Code:
@@ -204,9 +207,15 @@ endmodule
 
 ![Screenshot 2024-04-06 135522](https://github.com/Dhinesh0024/VLSI-LAB-EXP-4/assets/160568927/c6465024-ee28-4781-ba9a-9bec97dd2c1a)
 
-## rcc
+## Ripple Carry Counter:
 
 ### Logic Diagram:
+
+![image](https://github.com/Dhinesh0024/VLSI-LAB-EXP-4/assets/160568927/129b1a22-407f-4f38-adff-b4dbf3595eb7)
+
+
+![image](https://github.com/Dhinesh0024/VLSI-LAB-EXP-4/assets/160568927/fecad9d3-7f49-4c98-91f4-443803a60e37)
+
 
 
 ### Verilog Code:
